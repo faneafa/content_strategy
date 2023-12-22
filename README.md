@@ -1,2 +1,1 @@
-# content_strategy
-Data analysis about Instagram content strategy on the topic of mathematics
+<h1 align="left">Data Analysis about Content Strategy</h1>
